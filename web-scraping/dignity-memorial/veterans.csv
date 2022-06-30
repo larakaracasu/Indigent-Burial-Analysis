@@ -1,22 +1,22 @@
-name,organization,date
-Will Melvin Shegog,U.S. Air Force,"March 24, 1960 – Feb. 15, 2019"
-Ronnie Joe Lundy,U.S. Army,"Feb. 4, 1955 – Jan. 18, 2019"
-Joseph Lorenzo Williams,U.S. Army,"April 7, 1960 – April 1, 2019"
-Danny Rollin Ballantyne,U.S. Marine Corps,"Nov. 15, 1944 – April 30, 2019"
-George Charles Babcock,U.S. Army,"Feb. 17, 1940 – June 4, 2019"
-James Miske,U.S. Navy,"Dec. 21, 1944 – May 26, 2019"
-Stephen Jerald Spicer,U.S. Army,"April 18, 1947 - June 14, 2019"
-Howard Nicholas Warren,U.S. Army,"June 15, 1949 - July 16, 2019"
-Charles Bradley Fox,U.S. Marine Corps,"Oct. 26, 1958 – Oct. 7, 2018"
-James David Ellis,U.S. Army,"July 28, 1943-July 23, 2018"
-Frank Harmon Wilson,U.S. Army,"August 22, 1946-August 3, 2018"
-Wesley Russell,U.S. Army,"July 28, 1942 – Sept. 14, 2018"
-Arnold Martin Klechka,U.S. Army,"April 15, 1947 – Oct. 10, 2018"
-James Michael Farrar,U.S. Army,"August 1, 1947 – Oct. 2, 2018"
-Charles Joseph Burnett,U.S. Army,"Nov. 20, 1946 – Oct. 16, 2018"
-Robert Lee Baker,Jr.,"March 15, 1948 – Dec. 10, 2018"
-Stephen Sebastian Cunningham,U.S. Army,"Jan. 25, 1950 – Dec. 27, 2018"
-George Shaw,U.S. Coast Guard,"Jan. 24, 1951 – March 6, 2019"
-Richard Lindsay Butterfield,U.S. Marine Corps,"June 14, 1939 – April 4, 2019"
-Gary Lynn Andrews,U.S. Army,"August 24, 1951 – August 14, 2019"
-Ronald Baker Thomas,U.S. Army,"Jan. 3, 1946 – Sept. 8, 2019"
+Last Name,First Name,Middle Name,Department Of Defense,DOB,DOD
+Shegog,Will,Melvin,U.S. Air Force,3/24/1960,2/15/2019
+Lundy,Ronnie,Joe,U.S. Army,2/4/1955,1/18/2019
+Williams,Joseph,Lorenzo,U.S. Army,4/7/1960,4/1/2019
+Ballantyne,Danny,Rollin,U.S. Marine Corps,11/15/1944,4/30/2019
+Babcock,George,Charles,U.S. Army,2/17/1940,6/4/2019
+Miske,James,,U.S. Navy,12/21/1944,5/26/2019
+Spicer,Stephen,Jerald,U.S. Army,4/18/1947,6/14/2019
+Warren,Howard,Nicholas,U.S. Army,6/15/1949,7/16/2019
+Fox,Charles,Bradley,U.S. Marine Corps,10/26/1958,10/7/2018
+Ellis,James,David,U.S. Army,7/28/1943,7/23/2018
+Wilson,Frank,Harmon,U.S. Army,8/22/1946,8/3/2018
+Russell,Wesley,,U.S. Army,7/28/1942,9/14/2018
+Klechka,Arnold,Martin,U.S. Army,4/15/1947,10/10/2018
+Farrar,James,Michael,U.S. Army,8/1/1947,10/2/2018
+Burnett,Charles,Joseph,U.S. Army,11/20/1946,10/16/2018
+Baker,Robert,Lee,U.S. Navy,3/15/1948,12/10/2018
+Cunningham,Stephen,Sebastian,U.S. Army,1/25/1950,12/27/2018
+Shaw,George,,U.S. Coast Guard,1/24/1951,3/6/2019
+Butterfield,Richard,Lindsay,U.S. Marine Corps,6/14/1939,4/4/2019
+Andrews,Gary,Lynn,U.S. Army,8/24/1951,8/14/2019
+Thomas,Ronald,Baker,U.S. Army,1/3/1946,9/8/2019
