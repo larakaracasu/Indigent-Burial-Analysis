@@ -1,48 +1,48 @@
-Last Name,First Name,Middle Name,DOB,DOD
-Adkins,Lincoln,,09-24-1957,07-08-2014
-Arnot,Constance,,11-19-1939,08-19-2013
-Bradford,George,,10-25-1946,04-01-2015
-Britton,Howard,F.,06-05-1962,07-13-2014
-Bustamante,Humberto,,08-22-1931,03-01-2014
-Clary,Billy,John,01-26-1951,10-04-2013
-Crass,Michael,J.,12-29-1949,07-09-2014
-Creley,Fred,,03-17-1939,04-11-2015
-Curcie,George,J.,09-15-1954,06-16-2014
-Dahl,Nancy,A.,08-21-1952,01-22-2014
-Dillon,Matthew,P. Jr.,02-11-1935,03-12-2014
-Esquibel,Victor,,12-06-1956,10-20-2014
-Farris,Roger,G.,06-25-1958,09-21-2013
-Gristy,Mary,,02-24-1932,11-22-2013
-Guerrero,Petra,,10-19-1933,08-28-2014
-Haas,Robert,,03-25-1957,07-01-2013
-Hall,John,A.,02-07-1959,07-30-2013
-Harrington,Howard,,09-09-1948,10-23-2014
-Hefferon,Linda,,05-04-1951,05-01-2014
-Huey,Donald,R.,,
-Huey,Donald,R.,10-01-1950,11-03-2013
-Humphus,Robert,,04-29-1941,12-21-2014
-Jones,Robert,L.,12-23-1938,10-03-2013
-Jones,Arthur,,01-08-1943,07-22-2014
-Jones,Dan,,01-04-1933,04-12-2015
-Mcintyre,Richard,,03-25-1945,07-31-2013
-Mihali,Julius,F.,04-20-1945,11-05-2014
-Miller,Linda,M.,04-29-1953,12-31-2014
-Molden,William,S.,06-27-1972,08-27-2013
-Moseley,James,R.,08-12-1965,06-22-2015
-Neff,Won,Cha,11-17-1940,04-26-2015
-Ohap-Findley,Laurel,Ann,05-27-1957,03-29-2014
-Osborn,Donna,Ray,06-25-1959,12-31-2014
-Parker,Benny,,02-10-1961,01-12-2015
-Phillips,Stanley,L.,01-09-1932,02-15-2014
-Pulsipher,Melissa,,02-10-1976,07-03-2015
-Schulke,Donn,,10-20-1953,06-11-2015
-Skelly,Shae,,03-04-1944,05-15-2014
-Solliday,Michael,,02-12-1951,06-16-2014
-Storey,Alvin,,08-01-1945,11-20-2013
-Tackett,Kenneth,,01-21-1954,08-17-2015
-Travis,Charles,L.,09-24-1951,05-30-2015
-Vasquez,Joseph,,03-02-1966,10-30-2014
-Ventura,Ruben,,12-09-1949,02-23-2014
-Welch,Kathryn,,06-02-1930,01-19-2015
-White,Robin,,09-11-1943,11-05-2014
-Willis,Eddie,D.,05-14-1954,04-06-2014
+Last Name,First Name,Middle Name,DOB,DOD,Jurisdiction,Source URL,Date Scraped
+Adkins,Lincoln,,09/24/57,07/08/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Arnot,Constance,,11/19/39,08/19/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Bradford,George,,10/25/46,04/01/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Britton,Howard,F.,06/05/62,07/13/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Bustamante,Humberto,,08/22/31,03/01/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Clary,Billy,John,01/26/51,10/04/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Crass,Michael,J.,12/29/49,07/09/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Creley,Fred,,03/17/39,04/11/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Curcie,George,J.,09/15/54,06/16/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Dahl,Nancy,A.,08/21/52,01/22/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Dillon,Matthew,P. Jr.,02/11/35,03/12/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Esquibel,Victor,,12/06/56,10/20/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Farris,Roger,G.,06/25/58,09/21/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Gristy,Mary,,02/24/32,11/22/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Guerrero,Petra,,10/19/33,08/28/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Haas,Robert,,03/25/57,07/01/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Hall,John,A.,02/07/59,07/30/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Harrington,Howard,,09/09/48,10/23/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Hefferon,Linda,,05/04/51,05/01/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Huey,Donald,R.,,,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Huey,Donald,R.,10/01/50,11/03/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Humphus,Robert,,04/29/41,12/21/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Jones,Robert,L.,12/23/38,10/03/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Jones,Arthur,,01/08/43,07/22/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Jones,Dan,,01/04/33,04/12/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Mcintyre,Richard,,03/25/45,07/31/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Mihali,Julius,F.,04/20/45,11/05/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Miller,Linda,M.,04/29/53,12/31/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Molden,William,S.,06/27/72,08/27/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Moseley,James,R.,08/12/65,06/22/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Neff,Won,Cha,11/17/40,04/26/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Ohap-Findley,Laurel,Ann,05/27/57,03/29/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Osborn,Donna,Ray,06/25/59,12/31/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Parker,Benny,,02/10/61,01/12/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Phillips,Stanley,L.,01/09/32,02/15/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Pulsipher,Melissa,,02/10/76,07/03/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Schulke,Donn,,10/20/53,06/11/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Skelly,Shae,,03/04/44,05/15/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Solliday,Michael,,02/12/51,06/16/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Storey,Alvin,,08/01/45,11/20/13,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Tackett,Kenneth,,01/21/54,08/17/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Travis,Charles,L.,09/24/51,05/30/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Vasquez,Joseph,,03/02/66,10/30/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Ventura,Ruben,,12/09/49,02/23/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Welch,Kathryn,,06/02/30,01/19/15,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+White,Robin,,09/11/43,11/05/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
+Willis,Eddie,D.,05/14/54,04/06/14,"Dona Ana, NM",https://www.donaanacounty.org/sites/default/files/pages/Indigent_Burial_list.pdf,06/17/22
